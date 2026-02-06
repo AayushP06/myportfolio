@@ -215,7 +215,7 @@ export default function Page() {
           </div>
           <div className="flex gap-4">
           <a
-            href="https://drive.google.com/file/d/1wFoPdvKkydHqhc1_y2plisieI9I15wtA/view?usp=sharing"
+            href="https://drive.google.com/file/d/1g_VJN12M_V2UTAhyksPiMOV0sgvg6-Vt/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 bg-emerald-400 text-black rounded-lg hover:bg-emerald-500 transition-colors"
